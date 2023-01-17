@@ -1,5 +1,5 @@
 # phpmailerexcel
-The file index.php is reading the test.xlsx file to send mail using the smtp host.  
+The file index.php is reading the test.xlsx file to send mail using the smtp host.   You can use this to generate a multiple marketing mail using excel and connect to any SMTP host you need.  
 
 All the mention parameter are taken from the excel file
 1. SMTP HOST
@@ -13,6 +13,6 @@ All the mention parameter are taken from the excel file
 9. Attachment File.
 
 
-You can add multiple new row with all the information and the php script will be running in the loop to send mail row wise. 
+You can add multiple new row with all the information and the php script will be running in the loop to send mail each row wise. 
 
 Thanks. 
